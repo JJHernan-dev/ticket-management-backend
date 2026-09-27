@@ -1,0 +1,162 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Consolas','Menlo',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4NjhjNDQ4NS04NWZjLTRjMjktYjM5Zi0wYjExMWNjYThjYzUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDWwRPhjyEAOsddUG07T0R8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmNWQ2NTE2OC1iMzQwLTQ3Y2YtYTExMy05MDdhNjkzZjM4NWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLXZl8lThluAG27Gp7gnnewAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg5NDg0GDZkgM41z17gJgy6QdXEf03RnKjGy9j4AKvKy+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCr85WHvEuQWF+s5iePrU0EAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDRZE3ZiIRbHpteeeNR5QYSHPjA4Gd8qRrcK/sfdzdjOWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg2OGM0NDg1LTg1ZmMtNGMyOS1iMzlmLTBiMTExY2NhOGNjNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk2ZGQ1NjQ1LTMyMjEtNGY3My05ZmQ5LWI5NjJiNGQzMTZkM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDk0ODQYNmSAzjXPXuAmDLpB1cR/TdGcqMbL2PgAq8rL6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggTWU49fdpTOW1EtwKshGX4388ySdCABciryb1FdXDuiSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg5LS8gXOUvSEYK6LX2yy9d3ggb1b6w6Mmb7uGqVcBuk10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLe7F9Qxr5OmrrCghSJg8HwsM4UQSTpgHYM/HprsGfI2MDp0io7bg7q+HUnhLC3dhE82Snpo6mqhrJMfxvpzDFo=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14101F"/>
+      <stop offset="55%" stop-color="#1D1730"/>
+      <stop offset="100%" stop-color="#2A1B2E"/>
+    </linearGradient>
+    <linearGradient id="ticketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9466"/>
+      <stop offset="100%" stop-color="#E94F37"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF7A59" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FF7A59" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette2" cx="50%" cy="50%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <linearGradient id="sheenGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5EEAD4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="ticketClip">
+      <rect x="-110" y="-58" width="220" height="116" rx="14"/>
+    </clipPath>
+    <clipPath id="clipAll2"><rect width="1200" height="300"/></clipPath>
+
+    <style>
+      @keyframes pulseGlow2 {
+        0%, 100% { opacity: 0.6; transform: scale(1); }
+        50%      { opacity: 1;   transform: scale(1.07); }
+      }
+      @keyframes ticketBob {
+        0%, 100% { transform: translate(960px,150px) rotate(-8deg) translateY(0px); }
+        50%      { transform: translate(960px,150px) rotate(-8deg) translateY(-6px); }
+      }
+      @keyframes scanMove {
+        0%   { transform: translateY(-70px); opacity: 0; }
+        10%  { opacity: 1; }
+        90%  { opacity: 1; }
+        100% { transform: translateY(70px); opacity: 0; }
+      }
+      @keyframes dashFlow2 { to { stroke-dashoffset: -20; } }
+      @keyframes tearFlow  { to { stroke-dashoffset: -16; } }
+      @keyframes dotPulse  {
+        0%, 100% { opacity: 1;   r: 5; }
+        50%      { opacity: 0.4; r: 6.5; }
+      }
+      @keyframes sheenSweep2 {
+        0%   { transform: translateX(-140%); }
+        100% { transform: translateX(140%); }
+      }
+      .glow-outer2 { transform-origin: 960px 150px; animation: pulseGlow2 4.5s ease-in-out infinite; }
+      .ticket      { animation: ticketBob 5s ease-in-out infinite; }
+      .scan-line   { animation: scanMove 3s ease-in-out infinite; }
+      .tear-line   { stroke-dasharray: 3 6; animation: tearFlow 1.6s linear infinite; }
+      .circuit-lines2 { stroke-dasharray: 4 6; animation: dashFlow2 2.4s linear infinite; }
+      .status-dot  { animation: dotPulse 1.6s ease-in-out infinite; }
+      .sheen-bar2  { animation: sheenSweep2 7s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg2)"/>
+
+  <g clip-path="url(#clipAll2)">
+    <rect class="sheen-bar2" x="-200" y="-100" width="260" height="600" fill="url(#sheenGrad2)" transform="rotate(20 600 150)"/>
+  </g>
+
+  <!-- faint circuit texture, right side -->
+  <g class="circuit-lines2" stroke="#FF9466" stroke-width="1" opacity="0.45" fill="none">
+    <path d="M 640 45 L 730 45 L 730 95 L 810 95"/>
+    <path d="M 700 255 L 770 255 L 770 205 L 890 205"/>
+    <path d="M 1010 35 L 1010 80 L 1090 80"/>
+    <path d="M 960 245 L 1030 245 L 1030 190"/>
+  </g>
+  <g fill="#FF9466">
+    <circle cx="730" cy="45" r="3"/>
+    <circle cx="810" cy="95" r="3"/>
+    <circle cx="770" cy="255" r="3"/>
+    <circle cx="890" cy="205" r="3"/>
+    <circle cx="1010" cy="35" r="3"/>
+    <circle cx="1090" cy="80" r="3"/>
+    <circle cx="1030" cy="190" r="3"/>
+  </g>
+
+  <circle class="glow-outer2" cx="960" cy="150" r="190" fill="url(#glow2)"/>
+
+  <!-- ticket mark -->
+  <g class="ticket" filter="url(#softShadow2)">
+    <rect x="-110" y="-58" width="220" height="116" rx="14" fill="url(#ticketGrad)"/>
+    <!-- punch notches -->
+    <circle cx="-110" cy="0" r="15" fill="#1D1730"/>
+    <circle cx="110" cy="0" r="15" fill="#1D1730"/>
+    <!-- perforated tear line -->
+    <line class="tear-line" x1="30" y1="-50" x2="30" y2="50" stroke="#FFF3EC" stroke-width="2" stroke-opacity="0.7"/>
+    <!-- barcode bars -->
+    <g fill="#3B1710" opacity="0.85">
+      <rect x="48" y="-32" width="4" height="64"/>
+      <rect x="58" y="-32" width="7" height="64"/>
+      <rect x="70" y="-32" width="3" height="64"/>
+      <rect x="78" y="-32" width="5" height="64"/>
+      <rect x="88" y="-32" width="3" height="64"/>
+      <rect x="96" y="-32" width="6" height="64"/>
+    </g>
+    <g clip-path="url(#ticketClip)">
+      <rect class="scan-line" x="40" y="-4" width="72" height="10" fill="url(#scanGrad)"/>
+    </g>
+    <!-- id text -->
+    <text x="-90" y="-18" font-size="12" fill="#3B1710" font-weight="700" opacity="0.85">#0001</text>
+    <text x="-90" y="0" font-size="10" fill="#3B1710" opacity="0.75">STATUS</text>
+    <text x="-90" y="16" font-size="13" fill="#3B1710" font-weight="700">OPEN</text>
+  </g>
+  <circle class="status-dot" cx="1055" cy="80" r="5" fill="#4ADE80"/>
+
+  <!-- left text block -->
+  <g fill="#F1EAF4">
+    <text x="70" y="112" font-size="40" font-weight="700" letter-spacing="0.3">Ticket Management API</text>
+  </g>
+  <text x="70" y="146" font-size="16" fill="#B6A9C4" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    API REST en Spring Boot 3 · gestión de tickets de soporte con PostgreSQL
+  </text>
+
+  <!-- tech badges -->
+  <g font-size="13" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600">
+    <g transform="translate(70,180)">
+      <rect width="76" height="30" rx="15" fill="none" stroke="#ED8B00" stroke-width="1.4"/>
+      <text x="38" y="19" fill="#ED8B00" text-anchor="middle">Java 17</text>
+    </g>
+    <g transform="translate(158,180)">
+      <rect width="128" height="30" rx="15" fill="none" stroke="#6DB33F" stroke-width="1.4"/>
+      <text x="64" y="19" fill="#6DB33F" text-anchor="middle">Spring Boot 3</text>
+    </g>
+    <g transform="translate(298,180)">
+      <rect width="118" height="30" rx="15" fill="none" stroke="#4F9FE0" stroke-width="1.4"/>
+      <text x="59" y="19" fill="#4F9FE0" text-anchor="middle">PostgreSQL</text>
+    </g>
+    <g transform="translate(428,180)">
+      <rect width="84" height="30" rx="15" fill="none" stroke="#C71A36" stroke-width="1.4"/>
+      <text x="42" y="19" fill="#C71A36" text-anchor="middle">Maven</text>
+    </g>
+    <g transform="translate(524,180)">
+      <rect width="70" height="30" rx="15" fill="none" stroke="#9AA5B1" stroke-width="1.4"/>
+      <text x="35" y="19" fill="#9AA5B1" text-anchor="middle">MIT</text>
+    </g>
+  </g>
+
+  <text x="70" y="246" font-size="13" fill="#7C6E8C" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    github.com/JJHernan-dev/ticket-management-backend
+  </text>
+
+  <rect width="1200" height="300" fill="url(#vignette2)" pointer-events="none"/>
+</svg>

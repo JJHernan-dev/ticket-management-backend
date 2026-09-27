@@ -1,13 +1,8 @@
-## 🎟️ Ticket Management API
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Maven](https://img.shields.io/badge/Maven-Build-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Banner](imgReadme/ticket-management-api-banner.svg)
 
-API REST desarrollada con **Spring Boot** para la gestión de tickets de soporte.
+Sistema de gestión de tickets desarrollado con Java y Spring Boot.
 
-Este proyecto forma parte de mi **portfolio como Backend Developer Junior**, donde demuestro buenas prácticas en arquitectura REST, validación de datos y manejo de errores.
+
 
 ## 🟩 Sobre el proyecto
 
@@ -22,13 +17,7 @@ Durante el desarrollo he trabajado con:
 - Persistencia de datos con JPA
 - Documentación automática con OpenAPI (Swagger)
 
-## 🟩 Qué aprendí con este proyecto
 
-- Estructurar correctamente una API REST profesional
-- Organizar dependencias y ciclo de vida del proyecto con Maven
-- Implementar validaciones robustas
-- Centralizar el manejo de errores
-- Documentar una API con Swagger / OpenAPI
 
 ## 🟩 Tecnologías utilizadas
 
@@ -77,79 +66,142 @@ El proyecto sigue una **arquitectura en capas**:
 
 ---
 
-## 🟩 Ejemplo de creación de ticket
-
-###  Request
-
-**POST** `/api/tickets`
-
-```json
-{
-  "title": "Error al iniciar sesión",
-  "description": "El usuario no puede acceder a la aplicación",
-  "status": "OPEN"
-}
-```
-### Response
-
-**Status:** `201 Created`
-
-```json
-{
-  "id": 1,
-  "title": "Error al iniciar sesión",
-  "description": "El usuario no puede acceder a la aplicación",
-  "status": "OPEN"
-}
-```
-
-### Manejo de errores
-Ticket no encontrado
-
-**Status:** `404 Not Found`
-```json
-{
-  "error": "Ticket no encontrado con id: 5"
-}
-```
-
-### Validaciones incorrectas
-
-Las validaciones devuelven errores detallados por campo cuando los datos de entrada no cumplen las restricciones definidas.
-
-## 🟩 Documentación Swagger
-
-Una vez arrancada la aplicación, la documentación interactiva está disponible en:
-
-http://localhost:8080/swagger-ui.html
-
-
-Desde allí puedes probar todos los endpoints directamente.
-
 ## 🟩 Cómo ejecutar el proyecto
-### Requisitos
+### ➡️​ Requisitos
 
-- Java 17
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - Maven
-- PostgreSQL
+- [PostgreSQL](https://www.postgresql.org/)
 
-### Pasos
+
+### ➡️​ Pasos
 - git clone https://github.com/JJHernan-dev/ticket-management-backend.git
 - cd ticket-management-backend
 - mvn spring-boot:run
 
+### ➡️​ Configuración
 
-Luego, configura tu base de datos en: application.yml o application.properties
+Hay que configurar las Environment Variables desde el IDE.
 
-## 🟩 Configuración
+| Variable | Descripción | Ejemplo |
+|---|---|---|
+| `DB_URL` | URL de conexión a la base de datos PostgreSQL | `jdbc:postgresql://localhost:5432/ticket_management` |
+| `DB_USERNAME` | Usuario de PostgreSQL | `postgres` |
+| `DB_PASSWORD` | Contraseña del usuario de PostgreSQL | `la que tengas en PostgreSQL` |
 
-La aplicación utiliza variables de entorno para la conexión a la base de datos:
+<img src="imgReadme/config0.JPG"/>
+<img src="imgReadme/config1.JPG"/>
 
-- `DB_URL`
-- `DB_USERNAME`
-- `DB_PASSWORD`
+Importante crear la base de datos.
+
+<img src="imgReadme/config2.JPG"/>
+
+---
+
+## 🟩 Ejemplos de uso de la API
+
+A continuación se muestran algunos ejemplos de las operaciones principales disponibles en la API. <br>
+Se muestran 2 imágenes por cada request, la primera imágen usando la extensión EchoApi y la segunda imágen usando Swagger UI.
+
+- [EchoApi](https://marketplace.visualstudio.com/items?itemName=EchoAPI.echoapi-for-vscode)
+- [Swagger UI](http://localhost:8080/swagger-ui/index.html#/)
+
+
+### 🟦 Crear un ticket
+
+####  Request
+
+**POST** `http://localhost:8080/api/tickets`
+
+```json
+{
+  "title": "Error al iniciar sesión",
+  "description": "El usuario no puede acceder a la aplicación",
+  "status": "OPEN"
+}
+```
+
+<img src="imgReadme/crearTicket01.JPG"/>
+<img src="imgReadme/crearTicket02.JPG"/>
+<img src="imgReadme/crearTicket03.JPG"/>
+
+### 🟦 Obtener todos los tickets
+
+####  Request
+
+**GET** `http://localhost:8080/api/tickets`
+
+<img src="imgReadme/obtenerTickets0.JPG"/>
+<img src="imgReadme/obtenerTickets1.JPG"/>
+
+### 🟦 Obtener un ticket por ID
+
+####  Request
+
+**GET** `http://localhost:8080/api/tickets`
+
+<img src="imgReadme/obtenerTicketID0.JPG"/>
+<img src="imgReadme/obtenerTicketID1.JPG"/>
+
+### 🟦 Actualizar un ticket
+
+####  Request
+
+**PUT** `http://localhost:8080/api/tickets`
+
+```json
+{ 
+	"title": "Error al iniciar sesión", 
+	"description": "El problema continúa después de restablecer la contraseña", 
+	"status": "IN_PROGRESS" 
+}
+```
+
+<img src="imgReadme/actualizarTicket0.JPG"/>
+<img src="imgReadme/actualizarTicket1.JPG"/>
+
+### 🟦 Actualizar el estado de un ticket
+
+Lista de estados permitidos: OPEN, IN_PROGRESS y CLOSED.
+
+####  Request
+
+**PATCH** `http://localhost:8080/api/tickets`
+
+```json
+{
+  "status": "CLOSED"
+}
+```
+
+<img src="imgReadme/actualizarEstadoTicket0.JPG"/>
+<img src="imgReadme/actualizarEstadoTicket1.JPG"/>
+
+### 🟦 Eliminar un ticket
+
+####  Request
+
+**DELETE** `http://localhost:8080/api/tickets/2`
+
+<img src="imgReadme/borrarTicket0.JPG"/>
+<img src="imgReadme/borrarTicket1.JPG"/>
+
+## 🟥 Ejemplos de errores
+
+La API utiliza un manejo global de excepciones para devolver respuestas consistentes cuando ocurre un error.
+
+###  🟦 Ticket no encontrado
+
+**GET** `http://localhost:8080/api/tickets/999`
+
+<img src="imgReadme/ticketNoEncontrado.JPG"/>
+
+###  🟦 Error de validación
+
+**POST** `http://localhost:8080/api/tickets`
+
+<img src="imgReadme/errorValidacion.JPG"/>
 
 ## 👨‍💻 Autor
 
 Proyecto desarrollado por Juan Jesús González Hernández
-Backend Developer Junior
